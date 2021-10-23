@@ -31,9 +31,9 @@ This mod adds twenty Halloween themed parts
 - three sizes of candle (LuniticAeronotics)
 - themed fuel line
 - themed strut connector
-- antenna (nil2work)
-- hats (if KIS installed, else just animated structural parts) (nil2work)
-- night light (nil2work)
+- antenna (nli2work)
+- hats (if KIS installed, else just animated structural parts) (nli2work)
+- night light (nli2work)
 - six sizes of Radial Omni Separator (ROS) - probably will move to another new parts pack TBD (nohark)
 - plaque (KIS or no KIS) (ColbaltWolf)
 - KerbalKoffin (nohark)
@@ -139,7 +139,7 @@ This mod adds twenty Halloween themed parts
 
 #### see [Attributions.txt][MOD:attr] for comprehensive list  
 
-- [@'nil2work`][LINK:nil2work] - Configs, models, and textures
+- [@'nli2work`][LINK:nli2work] - Configs, models, and textures
 - [@'CobaltWolf`][LINK:cobaltwolf] - Configs, models, and textures
 - [@'ximrm`][LINK:ximrm] - Configs, models, and textures
 - [@'Tuareg`][LINK:taureg] - Configs, models, and textures
@@ -254,7 +254,7 @@ This mod adds twenty Halloween themed parts
 [thread:kis]: https://forum.kerbalspaceprogram.com/index.php?/topic/134130-* "Kerbal Inventory System(KIS)" 
 
 <!--- statics -->
-[LINK:nil2work]: https://forum.kerbalspaceprogram.com/index.php?/profile/110967-albertkermin/ "nil2work"
+[LINK:nli2work]: https://forum.kerbalspaceprogram.com/index.php?/profile/110967-albertkermin/ "nli2work"
 [LINK:cobaltwolf]: https://forum.kerbalspaceprogram.com/index.php?/profile/105588-cobaltwolf/ "CobaltWolf"
 [LINK:ximrm]: https://forum.kerbalspaceprogram.com/index.php?/profile/111063-ximrm/ "ximrm"
 [LINK:taureg]: https://forum.kerbalspaceprogram.com/index.php?/profile/84241-tuareg/ "Taureg"
