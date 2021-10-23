@@ -173,7 +173,7 @@ This mod adds twenty Halloween themed parts
 ###### v1.0.0.0 original: 01 Oct 2021 zed'K | updated: 22 Oct 2021 zed'K
 
 <!-- mod links -->
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/205185-* "Halloween Forum Thread"
+[MOD:url]: https://forum.kerbalspaceprogram.com/index.php?/topic/205185-* "Halloween Forum Thread"
 
 [MOD:attr]: https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/Attributions.txt "Attributions"
 [MOD:chlog]: https://github.com/zer0Kerbal/Halloween/Changelog.cfg "Changelog"
