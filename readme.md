@@ -207,6 +207,10 @@ This mod adds twenty Halloween themed parts
 [LIC:org:url]: https://creativecommons.org/licenses/by-nc/4.0/ "CC-BY-NC-4.0"
 [LIC:org:shd]: https://img.shields.io/badge/license-CC--BY--NC--4.0-EF9421?style=plastic&logo=creativecommons&labelColor=black&logoColor=EF9421 "CC-BY-NC-4.0"
 
+[LIC:spec:url]:  https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC-BY-NC-SA-4.0"
+[LIC:spec:logo]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
+[LIC:spec:shd]: https://img.shields.io/badge/license-CC--SA--BY--NC--4.0-ef9421?style=plastic&labelColor=black&logoColor=ef9421&logo=creativecommons "CC BY-NC-SA 4.0"
+
 <!--- AVC -->
 [AVC:shd]:  https://img.shields.io/badge/KSP-AVC--supported-00C961.svg?labelColor=black&style=plastic  
 [AVCVLD:shd]: https://github.com/zer0Kerbal/OhScrap/workflows/Validate%20AVC%20.version%20files/badge.svg?labelColor=black&style=plastic "AVC-Valid"
