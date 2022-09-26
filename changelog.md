@@ -1,154 +1,144 @@
-// Changelog.cfg v1.0.0.0
-// Halloween (HLWN)
-// created: 06 Oct 2021
-// updated: 
-KERBALCHANGELOG
-{
-	showChangelog = True
-	modName = Hallowe'en (HLWN)
-	license = CC BY-NC 4.0
-	author = zer0Kerbal
-	VERSION
-	{
-		version = 1.0.0.0-release
-		versionName = Dial #999 for Hallow'Eve
-		versionDate = 2021-10-25
-		versionKSP = 1.12.2
-		change = <b style="color:orange">zer0Kerbal wishes you a Happy and Safe Halloween!</b>
-		change = <b style="color:red">DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL</b>
-		CHANGE
-		{
-		}
-	}
-	VERSION
-	{
-		version = 0.9.9.9-prerelease
-		versionName = Dial #999 for Hallow'Eve
-		versionDate = 2021-10-21
-		versionKSP = 1.12.2
-		change = >>-- creation by zer0Kerbal --<<
-		change = <b style="color:orange">zer0Kerbal wishes you a Happy and Safe Halloween!</b>
-		change = <b style="color:red">DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL</b>
-		CHANGE
-		{
-			type = New
-			change = Changes and Improvements
-			subChange = Localization [en-us.cfg]
-			subChange = Dragcubes
-			subChange = Thumbnails
-			subChange = [ModuleCargoPart] 
-		}
-		CHANGE
-		{
-			type = Added
-			change = Localization
-			subChange = added .this/Localization/
-			subChange = added localization (en-us.cfg)
-			subChange = added readme.md and quickstart.me
-		}
-		CHANGE
-		{
-			type = Created
-			change = Back end  
-			subChange = local file structure
-			subChange = automation 
-		}
-		CHANGE
-		{
-			type = Created
-			change = Online
-			subChange = GitHub repo
-			subChange = CurseForge
-			subChange = SpaceDock
-			subChange = Forum Thread
-			subChange = updated CKAN/NetKAN
-		}
-		CHANGE
-		{
-			type = New
-			change = Documentation
-			subChange = attribution.txt
-			subChange = readme
-			subChange = releaseNotes
-			subChange = License
-			subChange = Changelog
-			subChange = .version
-		}
-		CHANGE
-		{
-			type = Status
-			change = Features/Issues/Bug
-			subChange = closes #21 - en-us.cfg should be complete 
-			subChange = closes #23 - Parts - should now be complete
-			subChange = closes #26 - completes 0.9.9.1-ßeta-1
-			subChange = closes #27 - finishes 0.9.9.0-ßeta-0
-			subChange = opens #24 - 0.9.9.9-prerelease
-			subChange = opens #25 - 1.0.0.0-release
-			subChange = closes #28 - Create/Update documentation
-			subChange = closes #29 - Create/Update Legal MumboJumbo
-			subChange = closes #31 - Create/Update Web/Social Media
-		}
-		CHANGE
-		{
-	  
-			type *** Possible future changes ***
-			change = ?
-		}
-	}
-	VERSION
-	{
-		version = 0.9.9.1-ßeta-2
-		versionName = ßeta II
-		versionDate = 2019-10-08
-		versionKSP = 1.12.2
-		change = ßeta 2
-		change = open ßeta on CurseForge
-	}
-	VERSION
-	{
-		version = 0.9.9.0-ßeta-1
-		versionName = ßeta I
-		versionDate = 2019-10-05
-		versionKSP = 1.12.2
-		change = closed ßeta
-		CHANGE
-		{
-			type = New
-			change =  Parts (new to this parts)
-			subChange = three sizes of candle
-			subChange = Halloween themed fuel line
-			subChange = Halloween themed strut connector
-			subChange = Kraken Commms
-			subChange = Kraken Hats (if KIS installed, else just animated baby Krakens)
-			subChange = Halloween Night Light
-			subChange = six sizes of ROS - will probably move to another new parts pack TBD
-			subChange = fallen Kerbonaut plaque (KIS or no KIS)
-			subChange = KerbalKoffin by nohark		
-		}
-		change = added [KerbalInventorySystem.cfg]
-		change = added [TweakScale.cfg]
-		change = added [ActiveTextureManager.cfg]
-		change = moved patch(es) into Halloween/Compatibility
-		change = moved sounds into Halloween/Sounds
-		change = moved FX into Halloween/FX
-		change = moved flags into Halloween/Flags
-		change = updated and modernized part.cfgs
-		change = moved parts from into appropriate categories
-		change = added Changelog.cfg
-		change = added explosionPotention
-		change = added tags
-		change = converted from PNG to DDS (DT5)
-		change = moved Assets into Halloween/Assets and adjusted [model]
-		change = moved parts into Halloween/parts
-		change = added Readme.md
-		change = added .version file
-		change = added ControlPoint(s)
-		change = updated ModuleReactionWheel
-		change = added SASServiceLevel
-		change = added ModuleDataTransmitter (5000)
-		change = adjusted ElectricChange per size
-		change = changed from ModuleLight to ModuleColorChanger
-	}
-}
-// CC BY-NC 4.0
-// zer0Kerbal
+# Changelog  
+  
+| modName    | Hallowe'en (HLWN)                                                 |
+| ---------- | ----------------------------------------------------------------- |
+| license    | CC BY-SA 4.0                                                      |
+| author     | zer0Kerbal                                                        |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/205185-*/) |
+| github     | (https://github.com/zer0Kerbal/Halloween)                         |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/Halloween)            |
+| spacedock  | (https://spacedock.info/mod/2875)                                 |
+| ckan       | Halloween                                                         |
+
+## Version 1.0.0.0-release `<Dial #999 for Hallow'Eve>` edition
+
+* 25 Oct 2021
+* Released for Kerbal Space Program 1.12.2
+
+* <b style="color:orange">zer0Kerbal wishes you a Happy and Safe Halloween!</b>
+* <b style="color:red">DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL</b>
+
+---
+
+## Version = 0.9.9.9-prerelease `<Dial #999 for Hallow'Eve>` edition
+
+* 21 Oct 2021
+* Released for Kerbal Space Program 1.12.2
+
+* `>>-- creation by zer0Kerbal --<<`
+* <b style="color:orange">zer0Kerbal wishes you a Happy and Safe Halloween!</b>
+* <b style="color:red">DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL</b>
+
+### Summary for 0.9.9.9
+
+* Localization [en-us.cfg]
+* Dragcubes
+* Thumbnails
+* [ModuleCargoPart]
+
+### Localization 0.9.9.9
+
+* Added
+  * .this/Localization/
+  * localization (en-us.cfg)
+  * readme.md and quickstart.me
+
+### Created 0.9.9.9
+
+* Back end  
+  * local file structure
+  * automation
+* Online
+  * GitHub repo
+  * CurseForge
+  * SpaceDock
+  * Forum Thread
+  * updated CKAN/NetKAN
+* Documentation
+  * attribution.txt
+  * readme
+  * releaseNotes
+  * License
+  * Changelog
+  * .version
+
+### Status 0.9.9.9
+
+* Issues
+  * closes #24 - 0.9.9.9-prerelease
+  * closes #25 - 1.0.0.0-release
+  * closes #28 - Create/Update documentation
+  * closes #29 - Create/Update Legal MumboJumbo
+  * closes #31 - Create/Update Web/Social Media
+* Features/Bug
+  * closes #21 - en-us.cfg should be complete 
+  * closes #23 - Parts - should now be complete
+  * closes #26 - completes 0.9.9.1-ßeta-1
+  * closes #27 - finishes 0.9.9.0-ßeta-0
+
+---
+
+## Version 0.9.9.1-ßeta-2 `<ßeta II>` edition
+
+* 08 Oct 2019
+* Released for Kerbal Space Program 1.12.2
+
+### ßeta 2
+
+* open ßeta on CurseForge
+
+---
+
+## Version 0.9.9.1-ßeta-1 `<ßeta I>` edition
+
+* 05 Oct 2019
+* Released for Kerbal Space Program 1.12.2
+
+### closed ßeta
+
+### New for 0.9.9.1
+
+* Parts (new to this parts)
+  * three sizes of candle
+  * Halloween themed fuel line
+  * Halloween themed strut connector
+  * Kraken Commms
+  * Kraken Hats (if KIS installed, else just animated baby Krakens)
+  * Halloween Night Light
+  * six sizes of ROS - will probably move to another new parts pack TBD
+  * fallen Kerbonaut plaque (KIS or no KIS)
+  * KerbalKoffin by nohark
+
+### Added 0.9.9.1
+
+* [KerbalInventorySystem.cfg]
+* [TweakScale.cfg]
+* [ActiveTextureManager.cfg]
+* Changelog.cfg
+* explosionPotention
+* tags
+* Readme.md
+* .version file
+* ControlPoint(s)
+* SASServiceLevel
+* ModuleDataTransmitter (5000)
+
+### Updated 0.9.9.1
+
+* part.cfgs
+* ModuleReactionWheel
+* changed from ModuleLight to ModuleColorChanger
+* adjusted ElectricChange per size
+* converted from PNG to DDS (DT5)
+
+### Moved 0.9.9.1
+
+* moved patch(es) into Halloween/Compatibility
+* moved sounds into Halloween/Sounds
+* moved FX into Halloween/FX
+* moved flags into Halloween/Flags
+* moved parts from into appropriate categories
+* moved Assets into Halloween/Assets and adjusted [model]
+* moved parts into Halloween/parts
+
+---
