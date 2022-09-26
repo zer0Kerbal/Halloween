@@ -98,8 +98,8 @@ or [![CKAN][ckan:img]][ckan:url]
 * [On Demand Fuel Cells (ODFC)][ODFC]
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
 * [Foundations (FND)][FND] ***Helps prevent ground constructions from floating away :)***
-* [Stock Inline Lights (SIL)][SIL]
-* [Stock Inline Lights Patches (SILP)][SILP]
+* [Stack Inline Lights (SIL)][SIL]
+* [Stack Inline Lights Patches (SILP)][SILP]
 * [Transparent Command Pods (PODS)][PODS]
 * [TweakScale (TWK)][twk]
 
@@ -214,8 +214,8 @@ parts, config, flags
 [GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
 [ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells (ODFC)"
 [PODS]: https://forum.kerbalspaceprogram.com/index.php?/topic/187495-*/ "Transparent Command Pods"
-[SIL]: https://forum.kerbalspaceprogram.com/index.php?/topic/193050-*/ "Stock Inline Lights"
-[SILP]: https://forum.kerbalspaceprogram.com/index.php?/topic/193051-*/ "Stock Inline Lights Patches"
+[SIL]: https://forum.kerbalspaceprogram.com/index.php?/topic/193050-*/ "Stack Inline Lights"
+[SILP]: https://forum.kerbalspaceprogram.com/index.php?/topic/193051-*/ "Stack Inline Lights Patches"
 
 [HLWN]: https://forum.kerbalspaceprogram.com/index.php?/topic/205185-*/ "Hallowe'en"
 [JACK]: https://forum.kerbalspaceprogram.com/index.php?/topic/189466-/* "Jack-O'Lantern"
