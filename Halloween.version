@@ -1,11 +1,11 @@
 {
-	"NAME": "Hallowe'en (HLWN)",
-	"URL": "https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/Halloween.version",
-	"DOWNLOAD": "http://github.com/zer0Kerbal/Halloween/releases/latest",
-	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/Changelog.cfg",
+	"NAME"			 : "Hallowe'en (HLWN)",
+	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/Halloween.version",
+	"DOWNLOAD"		 : "http://github.com/zer0Kerbal/Halloween/releases/latest",
+	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/changelog.md",
 	"GITHUB" :
 	{
-		"USERNAME"		  : "zer0Kerbal",
+		"USERNAME"	  		: "zer0Kerbal",
 		"REPOSITORY"		: "Halloween",
 		"ALLOW_PRE_RELEASE" : false
 	},
