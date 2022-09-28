@@ -18,6 +18,10 @@
 * <b style="color:orange">zer0Kerbal wishes you a Happy and Safe Halloween!</b>
 * <b style="color:red">DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL</b>
 
+* <Halloween.version>
+  * update
+  * remove: [KSP_VERSION_MAX]
+
 ---
 
 ## Version = 0.9.9.9-prerelease `<Dial #999 for Hallow'Eve>` edition
