@@ -32,7 +32,6 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
   * antenna (nli2work)
   * hats (if KIS installed, else just animated structural parts) (nli2work)
   * night light (nli2work)
-  * six sizes of Radial Omni Separator (ROS) - probably will move to another new parts pack TBD (nohark)
   * plaque (KIS or no KIS) (ColbaltWolf)
   * KerbalKoffin (nohark)
 
@@ -89,6 +88,7 @@ or [![CKAN][ckan:img]][ckan:url]
 * [Jack-O'Lantern (JACK)][JACK]
 * [Eterno-Rest 2000 (REST)][REST]
 * [Hallowe'en (HLWN)][HLWN]
+* [Radial Omni Seperator (ROS)][ROS]
 * [KaboOom! (BOOM)][BOOM] *another way to not go to space today*
 * [Kerbal Inventory System (KIS)][kis]
 * [Kerbal Attachment System (KAS)][kas]
@@ -124,10 +124,10 @@ parts, config, flags
 ### Credits and Special Thanks
 
 * see [Attribution.md][MOD:attr] for more comprehensive list
-  * ['nli2work`][nli2work] - Configs, models, and textures
   * ['CobaltWolf`][cobaltwolf] - Configs, models, and textures
-  * ['ximrm`][ximrm] - Configs, models, and textures
+  * ['nli2work`][nli2work] - Configs, models, and textures
   * ['Tuareg`][taureg] - Configs, models, and textures
+  * ['ximrm`][ximrm] - Configs, models, and textures
 
 ### Legal Mumbo Jumbo (License *provenance*)
 
@@ -214,13 +214,13 @@ parts, config, flags
 [GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
 [ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells (ODFC)"
 [PODS]: https://forum.kerbalspaceprogram.com/index.php?/topic/187495-*/ "Transparent Command Pods"
+[ROS]: https://forum.kerbalspaceprogram.com/index.php?/topic/209926-*/ "Radial Omni Seperator (ROS)"
 [SIL]: https://forum.kerbalspaceprogram.com/index.php?/topic/193050-*/ "Stack Inline Lights"
 [SILP]: https://forum.kerbalspaceprogram.com/index.php?/topic/193051-*/ "Stack Inline Lights Patches"
 
 [HLWN]: https://forum.kerbalspaceprogram.com/index.php?/topic/205185-*/ "Hallowe'en"
-[JACK]: https://forum.kerbalspaceprogram.com/index.php?/topic/189466-/* "Jack-O'Lantern"
-[REST]: https://forum.kerbalspaceprogram.com/index.php?/topic/209894-/* "Eterno-Rest 2000"
-
+[JACK]: https://forum.kerbalspaceprogram.com/index.php?/topic/189466-*/ "Jack-O'Lantern"
+[REST]: https://forum.kerbalspaceprogram.com/index.php?/topic/209894-*/ "Eterno-Rest 2000"
 [atp]: https://forum.kerbalspaceprogram.com/index.php?/topic/138433-*/ "JSI Advanced Transparent Pods"
 [kas]: http://forum.kerbalspaceprogram.com/index.php?/topic/142594-*/ "Kerbal Attachment System"
 [kis]: http://forum.kerbalspaceprogram.com/index.php?/topic/149848-*/ "Kerbal Inventory System"
@@ -277,7 +277,7 @@ parts, config, flags
 
 Track progress: issues [here][MOD:issue] and projects [here](https://github.com/zer0Kerbal/Halloween/projects/) along with **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
 
-[<img align="left" alt="zer0Kerbal | kerbalspaceprogram.com" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/32/kerbalspaceprogram_93898.png" />][zer0Kerbal] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge] [<img align="left" alt="zer0Kerbal | reddit" width="32px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-reddit-4661631_122483.png" />][reddit] [<img align="left" alt="zer0Kerbal | Patreon" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][PATREON:url] [<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube] [<img align="left" alt="zer0Kerbal | Twitch" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" />][twitch] [<img align="left" alt="zer0Kerbal | PayPal" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/paypal_logo_icon_168055.png" />][PAYPAL:url] [<img align="left" alt="zer0Kerbal | Buy Me a Coffee" width="32px" src="https://www.buymeacoffee.com/assets/img/bmc-meta-new/new/favicon.ico" />][BMCC:url] [<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/32/Twitter_icon-icons.com_66803.png" />][twitter]</br>
+[<img align="left" alt="zer0Kerbal | kerbalspaceprogram.com" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/32/kerbalspaceprogram_93898.png" />][zer0Kerbal] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge] [<img align="left" alt="zer0Kerbal | reddit" width="32px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-reddit-4661631_122483.png" />][reddit] [<img align="left" alt="zer0Kerbal | Patreon" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][PATREON:url] [<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube] [<img align="left" alt="zer0Kerbal | Twitch" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" />][twitch] [<img align="left" alt="zer0Kerbal | PayPal" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/paypal_logo_icon_168055.png" />][PAYPAL:url] [<img align="left" alt="zer0Kerbal | Buy Me a Coffee" width="32px" src="https://www.buymeacoffee.com/assets/img/bmc-meta-new/new/favicon.ico" />][BMCC:url] [<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/twitter-32.ico" />][twitter]</br>
 
 <!-- footnotes -->
 [^1]: this isn't a mod. ;P  
