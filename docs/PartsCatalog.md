@@ -23,16 +23,58 @@ This add-on adds nine (9) resource parts
 
 ---
 
-* Mallet *(Only with Kerbal Inventory System installed)*
-* SurveyStake
+* halloween kraken hat
+  * pink
+  * white
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/MOD-NAME/master/GameData/MOD-NAME/Parts/%40thumbs/ElMallet_icon.png" alt="Mallet" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/MOD-NAME/master/GameData/MOD-NAME/Parts/%40thumbs/ELSurveyStake_icon.png" alt="SurveyStake" width="25%" height="25%" />
 
-* MicroPad
-* OrbitalDock
+* kerbal koffin
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/hlwn-kerbalkoffin_icon.png" alt="Kerbal Koffin" width="25%" height="25%" />
+
+* halloween
+  * fuel line
+  * strut connector
+
+    <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/halloween-fuelline_icon.png" alt="fuel line" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/halloween-strutconnector_icon.png" alt="Strut Connector" width="25%" height="25%" />
+
+* Halloween Candle
+  * large, medium, small
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/halloween-candle-m_icon.png" alt="Candle" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/halloween-candle-l_icon.png" alt="candle" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/halloween-candle-s_icon.png" alt="candle" width="25%" height="25%" />
+
+* kerbaLamp
+* Fallen Kerbonaut
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/kerbaLamp_icon.png" alt="KerbaLamp" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/fallenkerbonaut_icon.png" alt="fallen kerbonaut" width="25%" height="25%" />
+
+* Coffin nails
+  * long
+  * short
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/halloween-handrail-l_icon.png" alt="coffin nail" width="25%" height="25%" />  <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/halloween-handrail-s_icon.png" alt="coffin nail" width="25%" height="25%" />
+
+* Halloween Kraken (antenna)
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/halloweenkraken_icon.png" alt="Kraken" width="25%" height="25%" />
+
+* Kraken hats
+  * blue, pink, and white
+
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/halloweenkrakenhat-blue_icon.png" alt="Kraken Hat Blue" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/halloweenkrakenhat-pink_icon.png" alt="Kraken Hat Pink" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/halloweenkrakenhat-white_icon.png" alt="Kraken Hat White" width="25%" height="25%" />
+
+
+
+
+
+
+
 
 ---
 
-[top](#Parts-Catalog)
+[top](#parts-catalog)
 
 <!-- this file CC BY-ND 4.0 by zer0Kerbal -->
