@@ -4,4 +4,4 @@
 
 
 ## Documents
-- [CC-BY-SA-4.0](CC-BY-SA-4.0.md)
+- [License](License.md)
