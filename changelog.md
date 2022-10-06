@@ -21,7 +21,11 @@
 * <Halloween.version>
   * update
   * remove: [KSP_VERSION_MAX]
-* split out [Radial Omni Separator (ROS)](https://forum.kerbalspaceprogram.com/index.php?/topic/209926-*/)
+* split out
+  * [Radial Omni Separator (ROS)](https://forum.kerbalspaceprogram.com/index.php?/topic/209926-*/)
+  * remove parts
+  * remove assets
+  * remove localization strings <en-us.cfg> v1.1.0.0>
 * 
 
 ---
