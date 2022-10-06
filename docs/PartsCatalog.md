@@ -19,33 +19,26 @@ updated: 15 May 2022 -->
 
 ## Parts Catalog
 
-This add-on adds nine (9) resource parts
+This add-on adds fourteen (14) hallowe'en themed parts
 
 ---
 
-* halloween kraken hat
-  * pink
-  * white
-
-
-* kerbal koffin
+* Kerbal Koffin
 
   <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/hlwn-kerbalkoffin_icon.png" alt="Kerbal Koffin" width="25%" height="25%" />
 
-* halloween
+* Halloween themed
   * fuel line
   * strut connector
 
-    <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/halloween-fuelline_icon.png" alt="fuel line" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/halloween-strutconnector_icon.png" alt="Strut Connector" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/halloween-fuelline_icon.png" alt="fuel line" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/halloween-strutconnector_icon.png" alt="Strut Connector" width="25%" height="25%" />
 
 * Halloween Candle
   * large, medium, small
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/halloween-candle-m_icon.png" alt="Candle" width="25%" height="25%" />
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/halloween-candle-l_icon.png" alt="candle" width="25%" height="25%" />
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/halloween-candle-s_icon.png" alt="candle" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/halloween-candle-m_icon.png" alt="Candle" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/halloween-candle-l_icon.png" alt="candle" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/halloween-candle-s_icon.png" alt="candle" width="25%" height="25%" />
 
-* kerbaLamp
+* Kerbal Lamp
 * Fallen Kerbonaut
 
   <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/kerbaLamp_icon.png" alt="KerbaLamp" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/fallenkerbonaut_icon.png" alt="fallen kerbonaut" width="25%" height="25%" />
@@ -60,18 +53,10 @@ This add-on adds nine (9) resource parts
 
   <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/halloweenkraken_icon.png" alt="Kraken" width="25%" height="25%" />
 
-* Kraken hats
+* Kraken hats (require KIS to be worn)
   * blue, pink, and white
 
-
   <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/halloweenkrakenhat-blue_icon.png" alt="Kraken Hat Blue" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/halloweenkrakenhat-pink_icon.png" alt="Kraken Hat Pink" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/halloweenkrakenhat-white_icon.png" alt="Kraken Hat White" width="25%" height="25%" />
-
-
-
-
-
-
-
 
 ---
 
