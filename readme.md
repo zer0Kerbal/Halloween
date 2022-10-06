@@ -187,7 +187,7 @@ parts, config, flags
 [LIC:spec:shd]: https://img.shields.io/badge/license-CC--BY--NC--SA--4.0-ef9421?style=plastic&labelColor=black&logoColor=ef9421&logo=creativecommons "CC BY-NC--SA 4.0"
 
 [LIC:url]: https://creativecommons.org/licenses/by-sa/4.0/ "CC BY-SA 4.0"
-[LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MOD-NAME/master/json/license.json "CC BY-SA 4.0"
+[LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/json/license.json "CC BY-SA 4.0"
 
 <!--- CKAN -->
 [ckan:img]: https://i.postimg.cc/x8XSVg4R/sj507JC.png "CKAN"
