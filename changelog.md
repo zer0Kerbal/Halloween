@@ -12,7 +12,7 @@
 
 ## Version 1.0.0.0-release `<Dial #999 for Hallow'Eve>` edition
 
-* 25 Oct 2021
+* 05 Oct 2022
 * Released for Kerbal Space Program 1.12.2
 
 * <b style="color:orange">zer0Kerbal wishes you a Happy and Safe Halloween!</b>
@@ -26,7 +26,15 @@
   * remove parts
   * remove assets
   * remove localization strings <en-us.cfg> v1.1.0.0>
-* 
+  * updates #22 - Localization - Master
+* Update
+  * Parts (general linting and improvements)
+* Config
+  * add <ghostparts.cfg>
+  * add <Halloween.cfg> v1.0.0.0
+* Status
+  * closes #25 - Halloween - Version 1.0.0.0-release `<Dial #999 for Halloween>`
+  * closes #30 - Release
 
 ---
 
