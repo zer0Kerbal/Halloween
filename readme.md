@@ -21,7 +21,7 @@ Hallowe'en themed parts pack for Kerbal Space Program. Jack-O'Lanterns not inclu
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/img/HeroLogo_1920x1920.png" alt="Halloween Hero" width="50%" height="50%">
+<img src="https://i.imgur.com/rWGfktW.png" alt="Halloween Hero" width="100%" height="100%">
 
 ### Features
 
@@ -34,8 +34,9 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
   * night light (nli2work)
   * plaque (KIS or no KIS) (ColbaltWolf)
   * KerbalKoffin (nohark)
-
+  
 <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/img/hero-03.png" alt="Halloween Hero" width="50%" height="50%">
+
 
 ##### *Jack-O'Lanterns not included*
 <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/img/Jack-OLanterns-not-included.png" alt="Halloween Hero" width="50%" height="50%" >
