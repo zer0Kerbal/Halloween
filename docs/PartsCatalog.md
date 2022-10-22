@@ -21,8 +21,6 @@ updated: 15 May 2022 -->
 
 This add-on adds fourteen (14) hallowe'en themed parts
 
----
-
 * Kerbal Koffin
 
   <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/hlwn-kerbalkoffin_icon.png" alt="Kerbal Koffin" width="25%" height="25%" />
@@ -33,15 +31,21 @@ This add-on adds fourteen (14) hallowe'en themed parts
 
   <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/halloween-fuelline_icon.png" alt="fuel line" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/halloween-strutconnector_icon.png" alt="Strut Connector" width="25%" height="25%" />
 
+[top](#parts-catalog)
+
 * Halloween Candle
   * large, medium, small
 
   <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/halloween-candle-m_icon.png" alt="Candle" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/halloween-candle-l_icon.png" alt="candle" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/halloween-candle-s_icon.png" alt="candle" width="25%" height="25%" />
 
+[top](#parts-catalog)
+
 * Kerbal Lamp
 * Fallen Kerbonaut
 
   <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/kerbaLamp_icon.png" alt="KerbaLamp" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/fallenkerbonaut_icon.png" alt="fallen kerbonaut" width="25%" height="25%" />
+
+[top](#parts-catalog)
 
 * Coffin nails
   * long
@@ -49,9 +53,13 @@ This add-on adds fourteen (14) hallowe'en themed parts
 
   <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/halloween-handrail-l_icon.png" alt="coffin nail" width="25%" height="25%" />  <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/halloween-handrail-s_icon.png" alt="coffin nail" width="25%" height="25%" />
 
+[top](#parts-catalog)
+
 * Halloween Kraken (antenna)
 
   <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/docs/%40thumbs/halloweenkraken_icon.png" alt="Kraken" width="25%" height="25%" />
+
+[top](#parts-catalog)
 
 * Kraken hats (require KIS to be worn)
   * blue, pink, and white
