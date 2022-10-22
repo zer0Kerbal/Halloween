@@ -10,7 +10,7 @@
 | spacedock  | (https://spacedock.info/mod/2875)                                 |
 | ckan       | Halloween                                                         |
 
-## Version 1.0.0.1-release `<Ungoliant Edderkopp Eporium>` edition
+## Version 1.0.0.1-release `<Ungoliant Edderkopp Emporium>` edition
 
 * 20 Oct 2022
 * Released for Kerbal Space Program 1.12.2
@@ -46,7 +46,7 @@
 ### Status
 
 * Issues
-  * closes #47 - Hallowe'en (HLWN) 1.0.0.1-release `<Ungoliant Edderkopp Eporium>` edition
+  * closes #47 - Hallowe'en (HLWN) 1.0.0.1-release `<Ungoliant Edderkopp Emporium>` edition
   * closes #48 - 1.0.0.1 Additional Tasks
 
 ---
