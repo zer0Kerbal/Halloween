@@ -52,13 +52,22 @@ updated: 03 Jun 2022
 ### Translations
 
 <ul>
-  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="English" style="zoom:125%;" /> English</li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="English" style="zoom:100%;" /> English</li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/NO.png " alt="Norsk" style="zoom:100%;" /> Norwegian (Norsk) thank you to:
+  <ul>
+    <li><a href="https://github.com/tplive" alt="tplive"> tplive</a></li>
+    <li><a href="https://github.com/boyum" alt="boyum"> boyum</a></li>
+  </ul>
   <li><small>Additions and corrections welcome!</small></li>
 </ul>
 
 ### Art Asset(s)
 
-* Flags
+#### Hero Image(s)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/img/HeroLogo_1920x1920-OLD.png" alt="Hallowe'en Hero 0" width="10%" height="10%"> by zer0Kerbal</li>
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/img/HeroLogo_1920x1920.png" alt="Hallowe'en Hero 0" width="10%" height="10%"> by <a href="https://github.com/lemostrash" alt="lemostrash"> lemostrash</a>
 
 ### Testing and Support
 

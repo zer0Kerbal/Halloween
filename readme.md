@@ -1,7 +1,7 @@
-<!-- readme.md v1.6.9.8
+<!-- readme.md v1.6.9.9
 Hallowe'en (HLWN)
 created: 17 Jul 2017
-updated: 15 Sep 2022 -->
+updated: 14 Oct 2022 -->
 
 <!--this file: CC BY-ND 4.0 by zer0Kerbal-->
 
@@ -13,7 +13,7 @@ updated: 15 Sep 2022 -->
 
 # Hallowe'en (HLWN)
 
-Hallowe'en themed parts pack for Kerbal Space Program. Jack-O'Lanterns not included.
+Hallowe'en themed parts pack for Kerbal Space Program. Jack-O'Lanterns _not_ included.
 
 
 
@@ -21,7 +21,7 @@ Hallowe'en themed parts pack for Kerbal Space Program. Jack-O'Lanterns not inclu
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/img/HeroLogo_1920x1920.png" alt="Halloween Hero" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/img/HeroLogo_1920x1920.png" alt="Hallowe'en Hero" width="100%" height="100%">
 
 ### Features
 
@@ -34,13 +34,14 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
   * night light (nli2work)
   * plaque (KIS or no KIS) (ColbaltWolf)
   * KerbalKoffin (nohark)
-
+  
 <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/img/hero-03.png" alt="Halloween Hero" width="50%" height="50%">
 
-##### *Jack-O'Lanterns not included*
+#### *Jack-O'Lanterns not included*
+
 <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/img/Jack-OLanterns-not-included.png" alt="Halloween Hero" width="50%" height="50%" >
 
-##### *Ah, Mission Control, there's a baby Kraken on my helmet and it's making strange noises*
+#### *Ah, Mission Control, there's a baby Kraken on my helmet and it's making strange noises*
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/img/Ah%2C%20Mission%20Control%20-%20there's%20a%20kraken%20on%20my%20helmet...png" alt="Halloween Hero" width="25%" height="25%">
 
@@ -53,6 +54,8 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 >* [ChangeLog][MOD:chlog] for more details of changes
 >* [Known Issues][MOD:issue] for more details of feature requests and known issues
 
+<img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/img/nli2work.gif" alt="Halloween Hero" width="10%" height="10%">
+
 ### Help Wanted
 
 > * Compatibility patches
@@ -64,6 +67,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 ### Localization
 
 >* ![English][EN] English
+>* ![Norsk][NO] Norwegian (Norsk) - thank you to [tplive](https://github.com/tplive) and [boyum](https://github.com/boyum)
 >* ***your translation here***
 >
 > HELP WANTED - See the [README in the Localization folder][lreadme] or the [Quickstart Guide][qstart] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
@@ -97,10 +101,11 @@ or [![CKAN][ckan:img]][ckan:url]
 
 * [On Demand Fuel Cells (ODFC)][ODFC]
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
-* [Foundations (FND)][FND] ***Helps prevent ground constructions from floating away :)***
+* [Foundations (FND)][FND] ***Helps prevent ground constructions from floating away***
 * [Stack Inline Lights (SIL)][SIL]
-* [Stack Inline Lights Patches (SILP)][SILP]
+  * [Stack Inline Lights Patches (SILP)][SILP]
 * [Transparent Command Pods (PODS)][PODS]
+  * [JSI Advanced Transparent Pods][atp]
 * [TweakScale (TWK)][twk]
 
 ### Supports
@@ -123,11 +128,11 @@ parts, config, flags
 
 ### Credits and Special Thanks
 
+* ['CobaltWolf`][cobaltwolf] - Configs, models, and textures
+* ['nli2work`][nli2work] - Configs, models, and textures
+* ['Tuareg`][taureg] - Configs, models, and textures
+* ['ximrm`][ximrm] - Configs, models, and textures
 * see [Attribution.md][MOD:attr] for more comprehensive list
-  * ['CobaltWolf`][cobaltwolf] - Configs, models, and textures
-  * ['nli2work`][nli2work] - Configs, models, and textures
-  * ['Tuareg`][taureg] - Configs, models, and textures
-  * ['ximrm`][ximrm] - Configs, models, and textures
 
 ### Legal Mumbo Jumbo (License *provenance*)
 
@@ -139,7 +144,7 @@ parts, config, flags
 > ##### Disclaimer(s)
 >
 > ***All bundled mods are distributed under their own licenses***  
-> ***All assets, including but not limited to: animations, models, sounds and textures are distributed under their own licenses***
+> ***All assets, including but not limited to: animations, models, sounds and textures are distributed under their own licenses***  
 > [![License][LIC:spec:shd]][LIC:spec:url]
 
 ##### see [Notices.md][MOD:notic] for more *legal mumbo jumbo*
@@ -229,7 +234,7 @@ parts, config, flags
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
 
 <!-- financial support -->
-[PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
+[PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-BOO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
 [PAYPAL:url]: https://www.paypal.com/donate?hosted_button_id=DC22YHMEJREKL/ "PayPal"
 [PATREON:img]: https://img.shields.io/badge/Patreon%20-Patreonize-FF424D?style=for-the-badge&logo=patreon/ "Patreon"
 [PATREON:url]: https://www.patreon.com/bePatron?u=23390503/ "Patreon"

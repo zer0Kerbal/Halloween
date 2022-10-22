@@ -10,6 +10,47 @@
 | spacedock  | (https://spacedock.info/mod/2875)                                 |
 | ckan       | Halloween                                                         |
 
+## Version 1.0.0.1-release `<Ungoliant Edderkopp Emporium>` edition
+
+* 20 Oct 2022
+* Released for Kerbal Space Program 1.12.2
+
+* <b style="color:orange">zer0Kerbal wishes you a Happy and Safe Halloween!</b>
+* <b style="color:red">DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL</b>
+
+## Summary 1.0.0.1
+
+* lots of small fixes, including localization strings
+* Norsk translation
+* New Cover Logo
+
+### Update
+
+* Localization
+  * Add
+    * Norwegian (Norsk)
+    * Localization/<no-no.cfg> v1.0.0.0
+    * Thank you to:
+      * [@tplive](https://github.com/tplive)
+      * [@boyum](https://github.com/boyum)
+  * update strings <en-us.cfg> v1.1.0.1>
+  * closes #12 - Localization - Norwegian (Norsk) <no-no.cfg>
+  * updates #22 - Localization - Master
+* Documentation
+  * Update
+    * Thank you [@lemostrash](https://github.com/lemostrash)
+    * improved cover (hero) [image](https://i.imgur.com/rWGfktW.png)
+    * readme.me
+    * closes #49 - Update Hero Logo
+
+### Status
+
+* Issues
+  * closes #47 - Hallowe'en (HLWN) 1.0.0.1-release `<Ungoliant Edderkopp Emporium>` edition
+  * closes #48 - 1.0.0.1 Additional Tasks
+
+---
+
 ## Version 1.0.0.0-release `<Dial #999 for Hallow'Eve>` edition
 
 * 05 Oct 2022
