@@ -37,11 +37,11 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
   
 <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/img/hero-03.png" alt="Halloween Hero" width="50%" height="50%">
 
+#### *Jack-O'Lanterns not included*
 
-##### *Jack-O'Lanterns not included*
 <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/img/Jack-OLanterns-not-included.png" alt="Halloween Hero" width="50%" height="50%" >
 
-##### *Ah, Mission Control, there's a baby Kraken on my helmet and it's making strange noises*
+#### *Ah, Mission Control, there's a baby Kraken on my helmet and it's making strange noises*
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/img/Ah%2C%20Mission%20Control%20-%20there's%20a%20kraken%20on%20my%20helmet...png" alt="Halloween Hero" width="25%" height="25%">
 
@@ -63,8 +63,11 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 > * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
 
 ### Localization
+[tplive] https://github.com/tplive [tplive]
+[boyum] https://github.com/boyum [boyum]
 
 >* ![English][EN] English
+>* ![Norsk][NO] Norwegian (Norsk) - thank you to [tplive][tplive] and [boyum][boyum]
 >* ***your translation here***
 >
 > HELP WANTED - See the [README in the Localization folder][lreadme] or the [Quickstart Guide][qstart] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
@@ -230,7 +233,7 @@ parts, config, flags
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
 
 <!-- financial support -->
-[PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
+[PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-BOO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
 [PAYPAL:url]: https://www.paypal.com/donate?hosted_button_id=DC22YHMEJREKL/ "PayPal"
 [PATREON:img]: https://img.shields.io/badge/Patreon%20-Patreonize-FF424D?style=for-the-badge&logo=patreon/ "Patreon"
 [PATREON:url]: https://www.patreon.com/bePatron?u=23390503/ "Patreon"
