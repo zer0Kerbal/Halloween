@@ -1,7 +1,7 @@
-<!-- readme.md v1.6.9.8
+<!-- readme.md v1.6.9.9
 Hallowe'en (HLWN)
 created: 17 Jul 2017
-updated: 15 Sep 2022 -->
+updated: 14 Oct 2022 -->
 
 <!--this file: CC BY-ND 4.0 by zer0Kerbal-->
 
@@ -13,7 +13,7 @@ updated: 15 Sep 2022 -->
 
 # Hallowe'en (HLWN)
 
-Hallowe'en themed parts pack for Kerbal Space Program. Jack-O'Lanterns not included.
+Hallowe'en themed parts pack for Kerbal Space Program. Jack-O'Lanterns _not_ included.
 
 
 
@@ -21,7 +21,7 @@ Hallowe'en themed parts pack for Kerbal Space Program. Jack-O'Lanterns not inclu
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
-<img src="https://i.imgur.com/rWGfktW.png" alt="Halloween Hero" width="100%" height="100%">
+<img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/img/HeroLogo_1920x1920.png" alt="Hallowe'en Hero" width="100%" height="100%">
 
 ### Features
 
@@ -54,6 +54,8 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 >* [ChangeLog][MOD:chlog] for more details of changes
 >* [Known Issues][MOD:issue] for more details of feature requests and known issues
 
+<img src="https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/img/nli2work.gif" alt="Halloween Hero" width="10%" height="10%">
+
 ### Help Wanted
 
 > * Compatibility patches
@@ -63,11 +65,9 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 > * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
 
 ### Localization
-[tplive] https://github.com/tplive [tplive]
-[boyum] https://github.com/boyum [boyum]
 
 >* ![English][EN] English
->* ![Norsk][NO] Norwegian (Norsk) - thank you to [tplive][tplive] and [boyum][boyum]
+>* ![Norsk][NO] Norwegian (Norsk) - thank you to [tplive](https://github.com/tplive) and [boyum](https://github.com/boyum)
 >* ***your translation here***
 >
 > HELP WANTED - See the [README in the Localization folder][lreadme] or the [Quickstart Guide][qstart] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
@@ -101,10 +101,11 @@ or [![CKAN][ckan:img]][ckan:url]
 
 * [On Demand Fuel Cells (ODFC)][ODFC]
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
-* [Foundations (FND)][FND] ***Helps prevent ground constructions from floating away :)***
+* [Foundations (FND)][FND] ***Helps prevent ground constructions from floating away***
 * [Stack Inline Lights (SIL)][SIL]
-* [Stack Inline Lights Patches (SILP)][SILP]
+  * [Stack Inline Lights Patches (SILP)][SILP]
 * [Transparent Command Pods (PODS)][PODS]
+  * [JSI Advanced Transparent Pods][atp]
 * [TweakScale (TWK)][twk]
 
 ### Supports
@@ -127,11 +128,11 @@ parts, config, flags
 
 ### Credits and Special Thanks
 
+* ['CobaltWolf`][cobaltwolf] - Configs, models, and textures
+* ['nli2work`][nli2work] - Configs, models, and textures
+* ['Tuareg`][taureg] - Configs, models, and textures
+* ['ximrm`][ximrm] - Configs, models, and textures
 * see [Attribution.md][MOD:attr] for more comprehensive list
-  * ['CobaltWolf`][cobaltwolf] - Configs, models, and textures
-  * ['nli2work`][nli2work] - Configs, models, and textures
-  * ['Tuareg`][taureg] - Configs, models, and textures
-  * ['ximrm`][ximrm] - Configs, models, and textures
 
 ### Legal Mumbo Jumbo (License *provenance*)
 
@@ -143,7 +144,7 @@ parts, config, flags
 > ##### Disclaimer(s)
 >
 > ***All bundled mods are distributed under their own licenses***  
-> ***All assets, including but not limited to: animations, models, sounds and textures are distributed under their own licenses***
+> ***All assets, including but not limited to: animations, models, sounds and textures are distributed under their own licenses***  
 > [![License][LIC:spec:shd]][LIC:spec:url]
 
 ##### see [Notices.md][MOD:notic] for more *legal mumbo jumbo*
