@@ -44,15 +44,15 @@ CC BY-ND 4.0 by zer0Kerbal
     * Norwegian (Norsk)
     * Localization/<no-no.cfg> v1.0.0.0
     * Thank you to:
-      * [tplive](https://github.com/tplive)
-      * [boyum](https://github.com/boyum)
+      * [@tplive](https://github.com/tplive)
+      * [@boyum](https://github.com/boyum)
   * update strings <en-us.cfg> v1.1.0.1>
   * closes #12 - Localization - Norwegian (Norsk) <no-no.cfg>
   * updates #22 - Localization - Master
 * Documentation
   * Update
-    * Thank you [lemostrash](https://github.com/lemostrash)
-    * improved cover (hero) image
+    * Thank you [@lemostrash](https://github.com/lemostrash)
+    * improved cover (hero) [image](https://i.imgur.com/rWGfktW.png)
     * readme.me
     * closes #49 - Update Hero Logo
 
