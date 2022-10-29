@@ -10,6 +10,39 @@
 | spacedock  | (https://spacedock.info/mod/2875)                                 |
 | ckan       | Halloween                                                         |
 
+## Version 1.0.0.2-release `<Caerfinon's Contract>` edition
+
+* Released
+  * 28 Oct 2022
+  * for Kerbal Space Program 1.12.3
+  * by zer0Kerbal
+
+### Summary 1.0.0.2
+
+* Add contract to orbit a Kerbal Koffin
+* Localize contract (hopefully I got it right)
+
+### Changes 1.0.0.2
+
+* Add
+  * Agent and contract strings
+  * <en-us.cfg> v1.1.1.0
+  * <no-no.cfg> v1.0.1.0 (placed as English needs to be translated)
+  * <Contract.cfg> v1.0.0.0
+    * thank you to [caerfinon](https://github.com/caerfinon)
+  * <Agents.cfg> v1.0.0.0
+* Update <Attributions.md>
+* Updates #12 - Localization - Norwegian (Norsk) <no-no.cfg>
+* Updates #22 - Localization - Master
+
+### Status 1.0.0.2
+
+* Issues
+  * closes #52 - Hallowe'en (HLWN) 1.0.0.2-release `<Caerfinon's Contract>` edition
+  * closes #53 - 1.0.0.2 Additional Tasks
+
+---
+
 ## Version 1.0.0.1-release `<Ungoliant Edderkopp Emporium>` edition
 
 * 20 Oct 2022
