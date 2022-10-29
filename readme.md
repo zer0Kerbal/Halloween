@@ -168,7 +168,7 @@ parts, config, flags
 [MOD:attr]: https://zer0kerbal.github.io/Halloween/Attributions "Attribution"
 [MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/changelog.md  "Changelog"
 [MOD:discu]: https://github.com/zer0Kerbal/Halloween/discussions "Discussions"
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/192742-*/ "Halloween Forum Thread"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/205185-*/ "Halloween Forum Thread"
 [MOD:issue]: https://github.com/zer0Kerbal/Halloween/issues "Issues"
 [MOD:markt]: https://zer0kerbal.github.io/Halloween/Marketing "Marketing Slicks"
 [MOD:notic]: https://zer0kerbal.github.io/Halloween/Notices "Notices"
