@@ -271,7 +271,7 @@ parts, config, flags
 [youtube]: https://www.youtube.com/channel/UCp9c8IaK4Gjgfj3O9QxrbDw
 
 [cobaltwolf]: https://forum.kerbalspaceprogram.com/index.php?/profile/105588-*/ "CobaltWolf"
-[nli2work]: https://forum.kerbalspaceprogram.com/index.php?/profile/110967-*/ "nli2work"
+[nli2work]: https://forum.kerbalspaceprogram.com/index.php?/profile/106805-*/ "nli2work"
 [taureg]: https://forum.kerbalspaceprogram.com/index.php?/profile/84241-*/ "Taureg"
 [ximrm]: https://forum.kerbalspaceprogram.com/index.php?/profile/111063-*/ "ximrm"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
