@@ -70,4 +70,4 @@ This add-on adds fourteen (14) hallowe'en themed parts
 
 [top](#parts-catalog)
 
-<!-- this file CC BY-ND 4.0 by zer0Kerbal -->
+<!-- THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
