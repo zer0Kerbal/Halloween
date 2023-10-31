@@ -23,6 +23,48 @@ CC BY-ND 4.0 by zer0Kerbal
 | spacedock  | (https://spacedock.info/mod/2875)                                 |
 | ckan       | Halloween                                                         |
 
+## Version 1.0.1.0-release `<In The Deep Dark Twilight>` edition
+
+* Released
+  * 31 Oct 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Changes 1.0.1.0
+
+* General updating and linting
+* Update documentation
+* NEW: localization
+  * ![Italian (Italiano)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/IT.png ) Italian (Italiano)
+  * partial translation
+  * Grazie [Alerika](https://github.com/Alerika)
+
+#### Localization 1.0.1.0
+
+* Add
+  * [it.it.cfg] v1.0.0.0
+    * partial Italian (Italiano) localization
+    * grazie [Alerika](https://github.com/Alerika)
+  * Translation guides
+    * [readme-ru.md] v1.0.1.0
+    * [quickstart-ru.md] v1.0.0.0
+    * Спасибо [evanisrael](https://github.com/evanisrael)
+* Update
+  * [it.it.cfg] v1.0.1.0
+  * add header, give credit
+* updates #16 - Localization - Italian (Italiano) <it-it.cfg>
+* updates #22 - Localization - Master
+
+### Status 1.0.1.0
+
+* Issues
+  * closes #41 - Hallowe'en (HLWN) 1.0.1.0-release `<In The Deep Dark Twilight>`
+  * closes #42 - 1.0.1.0 Verify Legal Mumbo Jumbo
+  * closes #43 - 1.0.1.0 Update Documentation
+  * closes #44 - 1.0.1.0 Update Social Media
+
+---
+
 ## Version 1.0.0.2-release `<Caerfinon's Contract>` edition
 
 * Released
@@ -247,3 +289,4 @@ CC BY-ND 4.0 by zer0Kerbal
 * moved parts into Halloween/parts
 
 ---
+
