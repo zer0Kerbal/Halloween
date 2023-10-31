@@ -1,8 +1,8 @@
-# settings.yml 1.0.9.7
+# settings.yml 1.0.9.8
 # this file: CC BY-ND 4.0
 # zer0Kerbal
 # created 01 Jan 2022
-# updated 01 Oct 2022
+# updated 01 May 2023
 # These settings are synced to GitHub by https://probot.github.io/apps/settings/
 # See https://docs.github.com/en/rest/reference/repos#update-a-repository for all available settings.
 
@@ -17,7 +17,7 @@ repository:
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/205185-*/
 
   # A comma-separated list of topics to set on the repository
-  topics: halloween,nliwork,halloween-theme,all-hallowed-eve,koffin,kerbal,kerbalspaceprogram,ksp,ksp-mods,ksp-parts,kerbal-space,kerbal-space-program,kerbal-mods,zedk,contributions-welcome,hacktoberfest,mods
+  topics: all-hallowed-eve,halloween,halloween-theme,koffin,kerbal,kerbal-mods,kerbal-space-program,kerbalspaceprogram,ksp,ksp-mods,ksp-parts,mods,contributions-welcome,hacktoberfest,nliwork,zedk
 
 # Labels: define labels for Issues and Pull Requests
 labels:
@@ -33,9 +33,10 @@ labels:
     color: FFFFF0
     description: "duplicated issue - it happens"
 
-  - name: FAQ
+  - name: FAKQ
+    oldname: FAQ
     color: 78A1A5
-    description: "Frequently Asked Question"
+    description: "Frequently Asked Kerbal Question"
 
   - name: "semantic: adoption"
     # include the old name to rename an existing label
@@ -258,31 +259,7 @@ labels:
     description: spam flag
 
 # Milestones: define milestones for Issues and Pull Requests
-milestones:
-  - title: 1.0.1.0-release
-    description: progress toward 1.0.1.0-release
-    state: open
-
-  - title: 1.0.0.0-release
-    description: progress toward 1.0.0.0-release
-    state: closed
-
-  - title: 0.9.9.9-prerelease
-    description: progress toward 0.9.9.9-prerelease
-    state: closed
-
-  - title: 0.9.9.0-Beta-1
-    description: progress toward 0.9.9.0-Beta-1
-    state: closed
-
-  - title: 0.9.9.0-Beta-0
-    description: progress toward 0.9.9.0-Beta-0
-    state: closed
-
-  - title: Localization - Master
-    description: progress toward total localization
-    state: open
-
-  - title: Localization - Parts
-    description: progress toward Parts localization (only for parts, patches, agencies - etc)
-    state: closed
+# milestones:
+#   - title: Localization - Master
+#     description: progress toward total localization
+#     state: open
