@@ -17,7 +17,7 @@
   * for Kerbal Space Program 1.12.5
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
-### Changes
+### Changes 1.0.1.0
 
 * General updating and linting
 * Update documentation
@@ -26,7 +26,7 @@
   * partial translation
   * Grazie [Alerika](https://github.com/Alerika)
 
-#### Localization
+#### Localization 1.0.1.0
 
 * Add
   * [it.it.cfg] v1.0.0.0
@@ -42,7 +42,7 @@
 * updates #16 - Localization - Italian (Italiano) <it-it.cfg>
 * updates #22 - Localization - Master
 
-### Status 1.1.3.0
+### Status 1.0.1.0
 
 * Issues
   * closes #41 - Hallowe'en (HLWN) 1.0.1.0-release `<In The Deep Dark Twilight>`
