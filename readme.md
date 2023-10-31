@@ -3,7 +3,7 @@ Hallowe'en (HLWN)
 created: 17 Jul 2017
 updated: 14 Oct 2022 -->
 
-<!--this file: CC BY-ND 4.0 by zer0Kerbal-->
+<!--THIS FILE: CC BY-ND 4.0 by zer0Kerbal-->
 
 [![Halloween][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][ckan:shd]][ckan:url]   
@@ -159,7 +159,7 @@ parts, config, flags
 ### DONATIONS: How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]  
 
 > ***Completely voluntary, absolutely amazing, and really does help me out a lot!***
-> quote from <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/32393-*/"><img border="0" alt="cybutek" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2020_06/kappa-kerbal-anarchy.thumb.png.673a2f6f7b36cc60a35c24efef217246.png" width="25px" height="25px"> cybutek</a> creator of <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/17833-130-*/" alt="Kerbal Engineer Redux (KER)"> Kerbal Engineer</a>
+> quote from <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/32393-*/"><img alt="cybutek" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2020_06/kappa-kerbal-anarchy.thumb.png.673a2f6f7b36cc60a35c24efef217246.png" width="25px" height="25px"> cybutek</a> creator of <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/17833-130-*/" alt="Kerbal Engineer Redux (KER)"> Kerbal Engineer</a>
 
 [![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Patreon][PATREON:img]][PATREON:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url]
 
@@ -168,7 +168,7 @@ parts, config, flags
 [MOD:attr]: https://zer0kerbal.github.io/Halloween/Attributions "Attribution"
 [MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/changelog.md  "Changelog"
 [MOD:discu]: https://github.com/zer0Kerbal/Halloween/discussions "Discussions"
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/192742-*/ "Halloween Forum Thread"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/205185-*/ "Halloween Forum Thread"
 [MOD:issue]: https://github.com/zer0Kerbal/Halloween/issues "Issues"
 [MOD:markt]: https://zer0kerbal.github.io/Halloween/Marketing "Marketing Slicks"
 [MOD:notic]: https://zer0kerbal.github.io/Halloween/Notices "Notices"
@@ -235,9 +235,9 @@ parts, config, flags
 
 <!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-BOO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
-[PAYPAL:url]: https://www.paypal.com/donate?hosted_button_id=DC22YHMEJREKL/ "PayPal"
+[PAYPAL:url]: https://www.paypal.com/donate/?hosted_button_id=DC22YHMEJREKL "PayPal"
 [PATREON:img]: https://img.shields.io/badge/Patreon%20-Patreonize-FF424D?style=for-the-badge&logo=patreon/ "Patreon"
-[PATREON:url]: https://www.patreon.com/bePatron?u=23390503/ "Patreon"
+[PATREON:url]: https://www.patreon.com/zer0Kerbal/membership "Patreon"
 [GSPONS:img]: https://img.shields.io/badge/Github%20-Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors/ "Github Sponsors"
 [GSPONS:url]: https://github.com/sponsors/zer0Kerbal/ "Github Sponsors"
 [BMCC:img]: https://img.shields.io/badge/Buy%20Me%20a%20-Snack!-FFDD00?style=for-the-badge&logo=buymeacoffee/ "Buy Me A Snack"
@@ -268,10 +268,10 @@ parts, config, flags
 [reddit]: https://www.reddit.com/user/zer0Kerbal
 [twitch]: https://www.twitch.tv/zer0kerbal
 [twitter]: https://twitter.com/zer0Kerbal
-[youtube]: https://www.youtube.com/channel/UCp9c8IaK4Gjgfj3O9QxrbDw
+[youtube]: https://www.youtube.com/@zer0Kerbal
 
 [cobaltwolf]: https://forum.kerbalspaceprogram.com/index.php?/profile/105588-*/ "CobaltWolf"
-[nli2work]: https://forum.kerbalspaceprogram.com/index.php?/profile/110967-*/ "nli2work"
+[nli2work]: https://forum.kerbalspaceprogram.com/index.php?/profile/106805-*/ "nli2work"
 [taureg]: https://forum.kerbalspaceprogram.com/index.php?/profile/84241-*/ "Taureg"
 [ximrm]: https://forum.kerbalspaceprogram.com/index.php?/profile/111063-*/ "ximrm"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
